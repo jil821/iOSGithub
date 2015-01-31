@@ -36,6 +36,7 @@
 		D19655191A7C668300905F7B /* Test GithubTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Test GithubTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D196551E1A7C668300905F7B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D196551F1A7C668300905F7B /* Test_GithubTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test_GithubTests.swift; sourceTree = "<group>"; };
+		D19655291A7C6C4600905F7B /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +60,7 @@
 		D19654FB1A7C668300905F7B = {
 			isa = PBXGroup;
 			children = (
+				D19655291A7C6C4600905F7B /* Header.h */,
 				D19655061A7C668300905F7B /* Test Github */,
 				D196551C1A7C668300905F7B /* Test GithubTests */,
 				D19655051A7C668300905F7B /* Products */,
